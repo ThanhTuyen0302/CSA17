@@ -1,6 +1,6 @@
-ten,gia_ban,ngay_tao,category
-Laptop,15000000,2025-09-01,Electronics
-Smartphone,10000000,2025-09-03,Electronics
-Tai nghe,1200000,2025-09-05,Accessories
-Bàn phím,800000,2025-09-07,Accessories
-Chuột,600000,2025-09-09,Accessories
+tên,giá bán,ngày tạo,category
+Laptop Dell XPS,35000000,2023-01-15,Laptop
+iPhone 14,25000000,2023-03-10,Điện thoại
+Samsung Galaxy S23,22000000,2023-04-05,Điện thoại
+Tai nghe Sony WH-1000XM5,7000000,2023-05-22,Phụ kiện
+Máy ảnh Canon EOS R,42000000,2023-06-18,Máy ảnh
